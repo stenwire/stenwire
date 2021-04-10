@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stenwire
-- 👀 I’m interested in ... AI, ML and Robotics.
+- 👀 I’m involved in ... AI, ML, Robotics and VR/XR.
 - 🌱 I’m currently learning ... Backend Development.
 - 💞️ I’m looking to collaborate on ... any project involving the above listed skills.
 - 📫 How to reach me ... +234-9068565663 on WhatsApp, @TheHardwareGuyy on twitter.
