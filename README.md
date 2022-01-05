@@ -16,8 +16,12 @@ You can click the Preview link to take a look at your changes.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=stenwire/Python)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+
+### Repository View Counter - HITS
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 
 
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/stenwire)
+
