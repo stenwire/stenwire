@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stenwire&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stenwire&theme=blue-green)
