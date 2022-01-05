@@ -12,3 +12,12 @@ You can click the Preview link to take a look at your changes.
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=stenwire&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stenwire&theme=blue-green)
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=stenwire)
+
+
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/stenwire)
