@@ -1,7 +1,7 @@
 <div align="center">
   
 
-### <div align="center">I'm Sten, welcome to my cave.</div>  
+### <div align="center">I'm Sten, welcome to my cave, and please look out for snakes.</div>  
   
 
 - 🔭 I’m currently working on [Django Blog](https://github.com/stenwire/Django-Blog-2.git)  
