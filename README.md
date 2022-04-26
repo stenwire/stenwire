@@ -1,6 +1,4 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%; background-color: black;" />
-</div>  
   
 
 ### <div align="center">I'm Sten, conjurer of  python and writer of aesthetic codes.</div>  
