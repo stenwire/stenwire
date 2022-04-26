@@ -1,7 +1,7 @@
 <div align="center">
   
 
-### <div align="center">I'm Sten, conjurer of  python and writer of aesthetic codes.</div>  
+### <div align="center">I'm Sten, welcome to my cave.</div>  
   
 
 - 🔭 I’m currently working on [Django Blog](https://github.com/stenwire/Django-Blog-2.git)  
