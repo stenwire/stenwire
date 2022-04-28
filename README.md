@@ -1,19 +1,7 @@
 <div align="center">
   
 
-### <div align="center">I'm Sten. Welcome to my cave, and please look out for snakes.</div>  
-  
-
-- 🔭 I’m currently working on [Django Blog](https://github.com/stenwire/Django-Blog-2.git)  
-  
-
-- 🌱 I’m currently learning Django and Javascript  
-  
-
-- ❓ Ask me about anything related to web dev and AI  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+### <div align="center">I'm Sten. Welcome to my cave, and please look out for snakes.</div>    
   
 
 <br/>  
