@@ -1,7 +1,7 @@
 <div align="center">
   
 
-### <div align="center">I'm Sten. Welcome to my cave, and please look out for snakes. 🙂</div>    
+### <div align="center">I'm Sten, Welcome 👋</div>    
   
 
 <br/>  
