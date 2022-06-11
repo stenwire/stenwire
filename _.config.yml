@@ -4,8 +4,8 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - README.html
-  - Projects.html
+  - README.md
+  - Projects.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
