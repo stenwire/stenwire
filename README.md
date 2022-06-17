@@ -52,6 +52,7 @@
   
 ### 🚨 Latest Blog post
 <!-- BLOG-POST-LIST:START -->
+- [CPU and GPU...like I&#39;m 5](https://dev.to/sten/cpu-and-gpulike-im-5-4jj1)
 <!-- BLOG-POST-LIST:END -->
 
 
