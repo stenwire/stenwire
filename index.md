@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+<div align="center">
+  
 
-You can use the [editor on GitHub](https://github.com/stenwire/stenwire/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### <div align="center">I'm Stephen Nwankwo(aka Sten), Welcome 👋</div>    
+  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br/>  
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Most used languages 
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stenwire&theme=tokyonight)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<br/>  
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Connect with me  
+<div align="center">
+<a href="https://github.com/stenwire" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Lord_Sten" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/stephen-nwankwo-9876b4196/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://web.facebook.com/stephen.nwankwo.9809" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://youtube.com/channel/UCdzktqr1HQMfgd3rj8XSGVw" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-**Bold** and _Italic_ and `Code` text
+<br/>  
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Github Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stenwire&show_icons=true&theme=tokyonight)  
 
-### Jekyll Themes
+<br/>  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stenwire/stenwire/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=stenwire&&style=flat-square" align="center" />
+</div>  
+  
+</div>
 
-### Support or Contact
+<br/>  
+  
+### 🚨 Latest Blog post
+<!-- BLOG-POST-LIST:START -->
+- [CPU and GPU...like I&#39;m 5](https://dev.to/sten/cpu-and-gpulike-im-5-4jj1)
+<!-- BLOG-POST-LIST:END -->
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<br />
+
+----
