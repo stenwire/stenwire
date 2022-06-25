@@ -5,14 +5,9 @@
   
 
 <br/>  
-
-
-## My Skill Set 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stenwire&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stenwire&theme=tokyonight) -->
 
-
-<br/>  
 
 
 ## Connect with me  
@@ -32,8 +27,7 @@
 <a href="https://youtube.com/channel/UCdzktqr1HQMfgd3rj8XSGVw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div> 
 
 <br/>  
 
