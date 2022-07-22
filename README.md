@@ -3,7 +3,7 @@
 
 ### <div align="center">I'm Sten, Welcome 👋</div>    
 
-<img src="https://c.tenor.com/a1iw8cAQKisAAAAC/dance-dance-moves.gif">
+<img src="https://c.tenor.com/a1iw8cAQKisAAAAC/dance-dance-moves.gif" width=150px  height=150px alt="please check your internet, you're missing something awesome">
 
 <br/>  
   
