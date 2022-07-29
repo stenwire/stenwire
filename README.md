@@ -1,9 +1,10 @@
 <div align="center">
   
 
-### <div align="center">I'm Sten, Welcome 👋</div>    
+## <div align="center">I'm Stephen, Welcome 👋</div>
 
-<img src="https://c.tenor.com/a1iw8cAQKisAAAAC/dance-dance-moves.gif" width=150px  height=150px alt="please check your internet, you're missing something awesome">
+<!---<img src="https://c.tenor.com/a1iw8cAQKisAAAAC/dance-dance-moves.gif" width=150px  height=150px alt="please check your internet, you're missing something awesome">---!>
+<img src="./mona-loading-dark.gif">
 
 <br/>  
   
