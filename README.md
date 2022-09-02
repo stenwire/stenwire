@@ -4,7 +4,8 @@
 ## <div align="center">I'm Stephen, Welcome 👋</div>
 
 <!---<img src="https://c.tenor.com/a1iw8cAQKisAAAAC/dance-dance-moves.gif" width=150px  height=150px alt="please check your internet, you're missing something awesome">---!>
-<img src="./mona-loading-dark.gif">
+<!--------<img src="./mona-loading-dark.gif">----->
+<img src="https://media-exp1.licdn.com/dms/image/sync/C5627AQHQ-ugBoYmF7g/articleshare-shrink_800/0/1662151736890?e=1662764400&v=beta&t=MWBRF0h1sioCleaMQLRaVbsP2MeYZf3OtpQ9oiAgFzU">
 
 <br/>  
   
@@ -14,9 +15,9 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/stenwire" target="_blank">
+<!--------<a href="https://github.com/stenwire" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+</a>------->
 <a href="https://twitter.com/Sage_Sten" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
