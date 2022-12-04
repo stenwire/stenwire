@@ -11,11 +11,11 @@
   <thead>
     <tr>
       <th>Welcome</th>
-      <th>bienvenue</th>
-      <th>herzlich</th>
-      <th>willkommen</th>
+      <th>Bienvenue</th>
+      <th>Herzlich</th>
+      <th>Willkommen</th>
       <th>欢迎</th>
-      <th>bienvenidos</th>
+      <th>Bienvenidos</th>
       <th>स्वागत हे</th>
      </tr>
   </tbody>
