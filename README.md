@@ -80,6 +80,7 @@
   
 ### 🚨 Latest Blog post
 <!-- BLOG-POST-LIST:START -->
+- [HATEOAS Principle - Generating Full Paths for Objects in Django Rest Framework.](https://dev.to/sten/hateoas-principle-generating-full-paths-for-objects-in-django-rest-framework-366j)
 - [CPU and GPU...like I&#39;m 5](https://dev.to/sten/cpu-and-gpulike-im-5-4jj1)
 <!-- BLOG-POST-LIST:END -->
 
