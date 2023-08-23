@@ -1,6 +1,7 @@
 
-[![@stentechy's Holopin board](https://holopin.me/stentechy)](https://holopin.io/@stentechy)
+<!--[![@stentechy's Holopin board](https://holopin.me/stentechy)](https://holopin.io/@stentechy)-->
 
+<!--[![sten's GitHub | Languages](https://stats.quine.sh/sten/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sten)-->
 
 <div align="center">
 
@@ -66,8 +67,9 @@
 
 
 ## Github Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stenwire&show_icons=true&theme=tokyonight) 
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=stenwire&show_icons=true&theme=tokyonight) -->
 
+[![sten's GitHub | Stats](https://stats.quine.sh/sten/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sten)
 <br/>  
 
 <div align="center">
