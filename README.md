@@ -82,6 +82,7 @@
   
 ### 🚨 Latest Blog post
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI engineers have cooked once more.](https://dev.to/sten/openai-engineers-have-cooked-once-more-k8c)
 - [The Saga of Sam Altman and OpenAI: The story of a controversial ouster and its aftermath.](https://dev.to/sten/the-saga-of-sam-altman-and-openai-the-story-of-a-controversial-ouster-and-its-aftermath-i54)
 - [HATEOAS Principle - Generating Full Paths for Objects in Django Rest Framework.](https://dev.to/sten/hateoas-principle-generating-full-paths-for-objects-in-django-rest-framework-366j)
 - [CPU and GPU...like I&#39;m 5](https://dev.to/sten/cpu-and-gpulike-im-5-4jj1)
