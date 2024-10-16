@@ -82,11 +82,11 @@
   
 ### 🚨 Latest Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Row-level locking in databases.](https://dev.to/sten/understanding-row-level-locking-in-databases-2c8j)
 - [Understanding the Basics of Optimization Loops in PyTorch](https://dev.to/sten/understanding-the-basics-of-optimization-loops-in-pytorch-10eg)
 - [OpenAI engineers have cooked once more.](https://dev.to/sten/openai-engineers-have-cooked-once-more-k8c)
 - [The Saga of Sam Altman and OpenAI: The story of a controversial ouster and its aftermath.](https://dev.to/sten/the-saga-of-sam-altman-and-openai-the-story-of-a-controversial-ouster-and-its-aftermath-i54)
 - [HATEOAS Principle - Generating Full Paths for Objects in Django Rest Framework.](https://dev.to/sten/hateoas-principle-generating-full-paths-for-objects-in-django-rest-framework-366j)
-- [CPU and GPU...like I&#39;m 5](https://dev.to/sten/cpu-and-gpulike-im-5-4jj1)
 <!-- BLOG-POST-LIST:END -->
 
 
