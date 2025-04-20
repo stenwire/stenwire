@@ -82,11 +82,11 @@
   
 ### 🚨 Latest Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Learn Google ADK: Build a farming agent.](https://dev.to/sten/learn-google-agent-adk-build-a-farming-agent-pc8)
 - [Performance Testing: Is Your API Ready for Real-World Traffic?](https://dev.to/sten/performance-testing-is-your-api-ready-for-real-world-traffic-4e9p)
 - [Understanding Row-level locking in databases.](https://dev.to/sten/understanding-row-level-locking-in-databases-2c8j)
 - [Understanding the Basics of Optimization Loops in PyTorch](https://dev.to/sten/understanding-the-basics-of-optimization-loops-in-pytorch-10eg)
 - [OpenAI engineers have cooked once more.](https://dev.to/sten/openai-engineers-have-cooked-once-more-k8c)
-- [The Saga of Sam Altman and OpenAI: The story of a controversial ouster and its aftermath.](https://dev.to/sten/the-saga-of-sam-altman-and-openai-the-story-of-a-controversial-ouster-and-its-aftermath-i54)
 <!-- BLOG-POST-LIST:END -->
 
 
