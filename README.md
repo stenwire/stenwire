@@ -66,15 +66,15 @@
 <br/>  
 
 
-## Github Stats  
+<!--!## Github Stats   -->
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=stenwire&show_icons=true&theme=tokyonight) -->
 
 <!--![![sten's GitHub | Stats](https://stats.quine.sh/sten/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sten) -->
 <br/>  
 
-<div align="center">
+<!--! <div align="center">
 <img src="https://komarev.com/ghpvc/?username=stenwire&&style=flat-square" align="center" />
-</div>  
+</div>  -->
   
 </div>
 
