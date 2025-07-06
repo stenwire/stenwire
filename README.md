@@ -82,11 +82,11 @@
   
 ### 🚨 Latest Blog post
 <!-- BLOG-POST-LIST:START -->
+- [Building an MCP Server with RAG Capabilities for Developer Tools](https://dev.to/sten/building-an-mcp-server-with-rag-capabilities-for-developer-tools-17g8)
 - [Optimizing SQL queries for your AI Agents.](https://dev.to/sten/optimizing-sql-queries-for-your-ai-agents-41dj)
 - [Learn Google ADK: Build a farming agent.](https://dev.to/sten/learn-google-agent-adk-build-a-farming-agent-pc8)
 - [Performance Testing: Is Your API Ready for Real-World Traffic?](https://dev.to/sten/performance-testing-is-your-api-ready-for-real-world-traffic-4e9p)
 - [Understanding Row-level locking in databases.](https://dev.to/sten/understanding-row-level-locking-in-databases-2c8j)
-- [Understanding the Basics of Optimization Loops in PyTorch](https://dev.to/sten/understanding-the-basics-of-optimization-loops-in-pytorch-10eg)
 <!-- BLOG-POST-LIST:END -->
 
 
