@@ -3,7 +3,7 @@
 
 <!--[![sten's GitHub | Languages](https://stats.quine.sh/sten/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sten)-->
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!----[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=+_____Hi,+Welcome+🤗_____;)](https://git.io/typing-svg)-----!>
 <!----[![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas+Code&pause=1000&color=299F0C&width=435&lines=+_____Hi,+Welcome+🤗_____;)](https://git.io/typing-svg)-----!>
@@ -31,16 +31,16 @@
 <!--------<img src="./mona-loading-dark.gif">----->
 
 
-<br/>  
+<!-- <br/>   -->
   
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stenwire&theme=tokyonight) -->
  
-<table>
+<!-- <table>
   <thead>
         <div align="center">
-        <!--------<a href="https://github.com/stenwire" target="_blank">
+         <a href="https://github.com/stenwire" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-        </a>------->
+        </a>
         <tr>
           <th colspan = "4">Connect with me  </th>
         </tr>
@@ -61,24 +61,24 @@
         </div> 
         </tr>
   </tbody>
-</table>
+</table> -->
 
-<br/>  
+<!-- <br/>   -->
 
 
 <!--!## Github Stats   -->
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=stenwire&show_icons=true&theme=tokyonight) -->
 
 <!--![![sten's GitHub | Stats](https://stats.quine.sh/sten/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sten) -->
-<br/>  
+<!-- <br/>   -->
 
 <!--! <div align="center">
 <img src="https://komarev.com/ghpvc/?username=stenwire&&style=flat-square" align="center" />
 </div>  -->
   
-</div>
+<!-- </div> -->
 
-<br/>  
+<!-- <br/>   -->
   
 ### 🚨 Latest Blog post
 <!-- BLOG-POST-LIST:START -->
