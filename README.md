@@ -82,11 +82,11 @@
   
 ### 🚨 Latest Blog post
 <!-- BLOG-POST-LIST:START -->
+- [The State of Security Protocols in Agent 2 Agent&lpar;A2A&rpar; Systems.](https://dev.to/sten/the-state-of-security-protocols-in-agent-2-agenta2a-systems-29km)
 - [Building an MCP Server with RAG Capabilities for Developer Tools](https://dev.to/sten/building-an-mcp-server-with-rag-capabilities-for-developer-tools-17g8)
 - [Optimizing SQL queries for your AI Agents.](https://dev.to/sten/optimizing-sql-queries-for-your-ai-agents-41dj)
 - [Learn Google ADK: Build a farming agent.](https://dev.to/sten/learn-google-agent-adk-build-a-farming-agent-pc8)
 - [Performance Testing: Is Your API Ready for Real-World Traffic?](https://dev.to/sten/performance-testing-is-your-api-ready-for-real-world-traffic-4e9p)
-- [Understanding Row-level locking in databases.](https://dev.to/sten/understanding-row-level-locking-in-databases-2c8j)
 <!-- BLOG-POST-LIST:END -->
 
 
